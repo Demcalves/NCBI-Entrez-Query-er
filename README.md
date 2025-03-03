@@ -5,7 +5,7 @@ development page to create RESTful APIs from these databases.
 
 In order to maximize your experience with the current implementation,
 It is strongly suggested that you navigate to 
-https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ and find the link to 
+[https://support.nlm.nih.gov/kbArticle/?pn=KA-05317] and find the link to 
 creating an account within the NCBI, so that you can create a private
 key. This way the NCBI recognizes your client ip address and will not
 throttle you as hard if you make multiple requests to quickly. 
